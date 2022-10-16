@@ -1,1 +1,3 @@
-Misile's chrome extension
+# Twipper Extension
+
+Chrome extension for twipper

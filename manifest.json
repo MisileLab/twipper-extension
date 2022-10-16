@@ -1,6 +1,6 @@
 {
-	"name": "Template",
-	"description": "chrome extension template",
+	"name": "Twipper Extension",
+	"description": "extension for twipper",
 	"version": "1.0",
 	"manifest_version": 3,
 	"permissions": [],
