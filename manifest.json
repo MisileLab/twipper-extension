@@ -3,7 +3,7 @@
 	"description": "extension for twipper",
 	"version": "1.0",
 	"manifest_version": 3,
-	"permissions": [],
+	"permissions": ["activeTab", "storage", "https://*/*"],
 	"background": {
 	  "service_worker": "background.js"
 	}
